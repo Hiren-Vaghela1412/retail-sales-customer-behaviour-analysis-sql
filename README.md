@@ -92,5 +92,5 @@ This structure enables **efficient analytical querying** and is widely used in *
 * *Presentation:* Insight-driven single-slide dashboard
   
 # 👤 Author
-__HIREN VAGHELA__
-__Data Science | SQL | Student Project__
+- __HIREN VAGHELA__
+- __Data Science | SQL | Student Project__
