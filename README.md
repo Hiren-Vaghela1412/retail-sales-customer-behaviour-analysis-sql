@@ -90,3 +90,7 @@ This structure enables **efficient analytical querying** and is widely used in *
   * Window Functions (RANK, DENSE_RANK)
 * *Visualization:* Microsoft Excel (Pivot Tables, Charts, Slicers)
 * *Presentation:* Insight-driven single-slide dashboard
+  
+# 👤 Author
+__HIREN VAGHELA__
+__Data Science | SQL | Student Project__
